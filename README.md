@@ -1,4 +1,5 @@
-# 06-Components--udemy
+# 06-Components--practice
+
 
 ![component-hero-pic](https://user-images.githubusercontent.com/105224244/181825220-4c7ae1b5-006d-4ef3-a701-fe3f60acb672.jpg)
 ![components-accordian-pic](https://user-images.githubusercontent.com/105224244/181825228-41c1c82e-f609-4422-89a1-b7a7b66770a4.jpg)
